@@ -33,3 +33,8 @@ button {
 
 #save-btn {
     background: darkgreen;
+
+
+#message-el {
+    text-decoration: none;
+}
